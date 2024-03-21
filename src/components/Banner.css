@@ -1,0 +1,7 @@
+.banner-bg {
+    background: url('../assets/Picture/Banner1.jpg') top no-repeat;
+    height: 897px;
+    background-size: cover;
+    overflow: hidden;
+    background-attachment: fixed;
+}

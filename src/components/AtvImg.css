@@ -1,0 +1,16 @@
+/* Default styles for larger screens */
+.slider-container-left {
+    float: left;
+    width: 50%;
+    margin-right: 20px;
+  }
+  
+  /* Adjust the styles for smaller screens using a media query */
+  @media (max-width: 768px) {
+    .slider-container-left {
+      width: 100%; /* Full width on smaller screens */
+      margin-right: 0; /* No margin on smaller screens */
+      float: none; /* Clear the float to stack the content */
+    }
+  }
+  

@@ -1,0 +1,6 @@
+.footer-picture {
+    background: url('../assets/Picture/Banner1.jpg') top center no-repeat;
+    height: 400px;
+    background-size: cover;
+    overflow: hidden;
+}

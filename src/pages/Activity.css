@@ -1,0 +1,6 @@
+.activity-banner {
+    background: url('../assets/Activity/activity-banner.jpg') center center no-repeat;
+    height: 600px;
+    background-size: cover;
+    overflow: hidden;
+}
